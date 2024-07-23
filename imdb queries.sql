@@ -407,12 +407,13 @@ LIMIT 9;
 /* 
 Ans: Based on the Analysis of the IMBd Movies, the recommendations for the types of content Bolly Movies should focus on producing is:-
 
-          1. The 'Triller' genre has caught the highest attention and interest amongst the audience as the amount of 'Thriller' movies watched is good,
-	         so the Bollywood movie production houses should keep their interest towards producing more 'Thriller' genre movies. 
+          1. Based on the Analysis Adventure, Action and Drama are the top 3 genres with highest worlwide grossing. So, choosing the script based 
+	     on these genres will result in high success
+		
        
-          2. The 'Drama' genre has gained the overall average highest IMDb rating by the audience, so the Bollywood movies production houses 
-             should focus more on producing quality content movies in the 'Drama' genre as they have been doing.
+          -- 2. Directors James Mangold, Michael Powell, Emeric Pressburger, Mel Gibson and Noah Baumbach having good hits and super hits -- 
+	      paring with them will result in high success
        
-          3. The Bollywood movie production houses should also focus on producing good quality movies in other genres as well for the 
-             growth of the bollywood movie industry.
-*/
+          -- 3. Mel Novak and Christian Bale are the top two actors with median_rating of 10
+          -- 4. Month 1, 3, 9 and 10 having highest movie release trend
+          -- 5. Month 7 and 12 having low movie release trend
